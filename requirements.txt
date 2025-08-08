@@ -1,0 +1,10 @@
+streamlit
+pandas
+scikit-learn
+numpy
+lightgbm
+xgboost
+joblib
+bcrypt
+cloudpickle
+catboost
